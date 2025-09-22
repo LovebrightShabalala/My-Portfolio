@@ -15,6 +15,6 @@ Here, you can find my key documents and Figma designs that showcase my skills in
   Budget insurance dummy example: Captured requirements, mapped workflows, and facilitated UAT with business users.
 Approach & Tools: Workshops, BRDs, process models (BPMN), and UAT scripts.
 
- **[Figma Design – Project 2](https://www.figma.com/file/YYYYYY)**  
-  Interactive prototypes for a mobile solution.
+ - **[Figma Design – Project 2]** https://github.com/LovebrightShabalala/My-Portfolio/blob/main/Donor_Volunteer_Management_Sample_Project.pdf
+  Donor management system documentation 
 
