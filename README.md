@@ -14,7 +14,7 @@ Here, you can find my key documents and Figma designs that showcase my skills in
  - **[Figma Design – Project 2]** https://github.com/LovebrightShabalala/My-Portfolio/blob/main/Donor_Volunteer_Management_Sample_Project%202.pdf
   Donor management system documentation 
 
-- **[Insurance case study]** https://github.com/LovebrightShabalala/My-Portfolio/blob/main/Insurance%20case%20study.pdf
+- **[Insurance case study]** https://github.com/LovebrightShabalala/My-Portfolio/blob/main/Business_Analyst_Portfolio.pdf
   Budget insurance dummy example: Captured requirements, mapped workflows, and facilitated UAT with business users.
 Approach & Tools: Workshops, BRDs, process models (BPMN), and UAT scripts.
 
