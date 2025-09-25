@@ -11,7 +11,7 @@ Here, you can find my key documents and Figma designs that showcase my skills in
 
 ## 📄 Documents
 
- - **[Figma Design – Project 2]** https://github.com/LovebrightShabalala/My-Portfolio/blob/main/Donor_Volunteer_Management_Sample_Project.pdf
+ - **[Figma Design – Project 2]** https://github.com/LovebrightShabalala/My-Portfolio/blob/main/Donor_Volunteer_Management_Sample_Project%202.pdf
   Donor management system documentation 
 
 - **[Insurance case study]** https://github.com/LovebrightShabalala/My-Portfolio/blob/main/Insurance%20case%20study.pdf
