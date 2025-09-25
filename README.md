@@ -1,4 +1,4 @@
-Welcome to my Business Analysis (BA) portfolio!  
+Welcome to my UI/UX and Business Analysis (BA) portfolio!  
 Here, you can find my key documents and Figma designs that showcase my skills in requirements gathering, process mapping, and solution design.
 
 ## Figma Designs
